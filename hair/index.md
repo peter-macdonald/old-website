@@ -20,7 +20,7 @@ not as simple as I first thought.
 
 Started easy, with a nice mustache curl.
 
-![Starting out][cal1]
+![Starting out][cleancut_grad.jpg]
 
 Then grew more, learning about pomade and beard
 balm.
@@ -80,7 +80,6 @@ end, I was satisfied with the experience, and
 decided it was time for a change. And so it went.
 <Picture to be inserted once I shave.>
 
-[grad]: cleancut_grad.jpg "Clean cut and graduating"
 [cal1]: california_1.jpg "Started growing out hair"
 [cal2]: california_2.jpg "Beard and styled hair"
 [cal3]: california_3.jpg "Post-motorcycle"
