@@ -139,7 +139,7 @@ have ever helt. 80V 0.1F. Here's a picture.
 
 We systematically put the bike together.
 
-![Bike partially assembled](ppcbike_on_table)
+![Bike partially assembled](ppcbike_on_table.jpg)
 
 Eventually, we got it together.
 
