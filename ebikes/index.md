@@ -182,7 +182,7 @@ area I was in. It is a little 1kW kit that is on an
 Iron Horse frame. It is relatively slow, but useful
 for getting around.
 
-![legal_1.jpg]
+![Ebike from kit](legal_1.jpg)
 
 Legal, however, does not mean it's the safest. In fact,
 it's the only one I've ever hurt myself on. Riding it
