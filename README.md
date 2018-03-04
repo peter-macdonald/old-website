@@ -1,2 +1,2 @@
-# personal.github.io
+# Peter Macdonald
 My personal website!
