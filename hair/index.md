@@ -73,7 +73,7 @@ I then decided to drop the mustache so I could eat
 more easily, and went with the goatee. This is a 
 look I liked and could maintain.
 
-![Goatee](callifornia_9.jpg)
+![Goatee](california_9.jpg)
 
 This was a great adventure with long hair. In the
 end, I was satisfied with the experience, and
