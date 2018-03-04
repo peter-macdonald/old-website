@@ -9,7 +9,7 @@ phones are great things).
 It started with a clean cut, in 2015 when I
 graduated University. Here I am with my buds.
 
-![Clean cut, graduating with my friends][grad]
+![Clean cut, graduating with my friends](grad)
 
 Then I moved to California, and started the journey
 of growing out my hair. Goal: Long hair, long beard.
